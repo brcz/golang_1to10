@@ -1,5 +1,5 @@
 package main
-
+//Convert one object to 10 objects
 
 type SomeParentResp struct {
     One  [10]string `json:"one"`
